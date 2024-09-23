@@ -11,4 +11,4 @@ points and cutting-edge technologies, this system strives to make beverage
 recommendations that go beyond mere preferences, catering to the holistic needs and 
 emotions of each individual customer.
 
-- To find more information about my product, please reach out the pdf file in this repo 
+- To find more informationa about my product, please reach out the pdf file in this repo 
